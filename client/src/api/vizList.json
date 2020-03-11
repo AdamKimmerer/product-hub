@@ -1,0 +1,46 @@
+[{
+    "Name": "Interactive Map: Emergency Department Wait Time for Physician Initial Assessment (90% Spent Less, in Hours), 2018-2019",
+    "Preview": "https://10ax.online.tableau.com/t/producthubdev142028/views/YHS/Dashboard3",
+    "DataSources": ["Source 1", "Source 2"],
+    "Topics": ["Topic 1", "Topic 2"],
+    "Orgs": ["Mount Sinai"],
+    "Link": "URL Address",
+    "Tags": ["Access", "Wait Times"],
+    "Type": "Dashboard"
+},{
+    "Name": "Results for All Hospitals Within the Region: Emergency Department Wait Time for Physician Initial Assessment (90% Spent Less, in Hours), 2018–2019",
+    "Preview": "https://10ax.online.tableau.com/t/producthubdev142028/views/YHS/Dashboard2",
+    "DataSources": ["Source 2", "Source 3"],
+    "Topics": ["Topic 2", "Topic 3"],
+    "Orgs": ["Mount Sinai"],
+    "Link": "URL Address",
+    "Tags": ["Wait Times"],
+    "Type": "Sheet"
+},{
+    "Name": "Trend Over Time: Emergency Department Wait Time for Physician Initial Assessment (90% Spent Less, in Hours)",
+    "Preview": "https://10ax.online.tableau.com/t/producthubdev142028/views/YHS/Dashboard1",
+    "DataSources": ["Source 2"],
+    "Topics": ["Topic 1"],
+    "Orgs": ["Mount Sinai"],
+    "Link": "URL Address",
+    "Tags": ["Access"],
+    "Type": "Sheet"
+},{
+    "Name": "Hospital Deaths",
+    "Preview": "https://10ax.online.tableau.com/t/producthubdev142028/views/Adam_Will_collab/Dashboard1",
+    "DataSources": ["Source 2"],
+    "Topics": ["Topic 3"],
+    "Orgs": ["Mount Sinai"],
+    "Link": "URL Address",
+    "Tags": ["Access"],
+    "Type": "Dashboard"
+},{
+    "Name": "Per Capita Health Spending",
+    "Preview": "https://10ax.online.tableau.com/t/producthubdev142028/views/NHEX2019dataest1/percapitahlthspending",
+    "DataSources": ["Source 1"],
+    "Topics": ["Topic 2"],
+    "Orgs": ["Mount Sinai"],
+    "Link": "URL Address",
+    "Tags": ["Wait Times"],
+    "Type": "Sheet"
+}]
