@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^2.2.10",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "enigma.js": "^2.4.0",
     "es6-promise": "^4.2.6",
